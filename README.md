@@ -51,9 +51,3 @@ Je m’oriente désormais vers des rôles axés sur la défense des réseaux et 
 Simulation purple-team visant à améliorer les capacités de détection de PicoSecure à travers la Pyramid of Pain et la matrice MITRE ATT&CK.  
 Compétences travaillées : analyse de logs, création de règles de détection, investigation SOC.
 
----
-
-## Contact
-
-- LinkedIn : [Votre profil LinkedIn](https://www.linkedin.com/)  
-- Email : votre.email@example.com
