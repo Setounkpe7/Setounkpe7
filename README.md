@@ -33,8 +33,7 @@ Je m’oriente désormais vers des rôles axés sur la défense et la sécurisat
 
 ### Network  
 - Wireshark  
-- Zeek  
-- Suricata  
+- Snort
 
 ### Endpoint  
 - Sysinternals Suite  
@@ -58,6 +57,9 @@ Je m’oriente désormais vers des rôles axés sur la défense et la sécurisat
 ### [Summit](https://github.com/Setounkpe7/Summit)  
 Simulation immersive de type purple-team visant à améliorer les capacités de détection de PicoSecure via la Pyramid of Pain et la matrice MITRE ATT&CK.  
 Compétences clés : analyse de logs, création de règles, investigation SOC.
+
+### [Security Incident Report](https://github.com/Setounkpe7/Security-Incident-Report-HTTP-Malware-Redirect)
+Rédaction d'un rapport détaillé sur un incident entraînant l'inaccessibilité d'un site web.
 
 ### [Snort-Live-Attacks](https://github.com/Setounkpe7/Snort-Live-Attacks)  
 Challenge orienté détection IDS/IPS avec Snort : brute-force SSH, reverse shell, création de règles alert/drop.
