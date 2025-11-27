@@ -14,15 +14,15 @@ Je m’oriente désormais vers des rôles axés sur la défense et la sécurisat
 
 | Compétence                                                            | Projet associé |
 |-----------------------------------------------------------------------|----------------|
+| Rédaction d’un rapport d’incident                                     | [Security Incident Report](https://github.com/Setounkpe7/Security-Incident-Report-HTTP-Malware-Redirect) |
+| Détection IDS/IPS (Snort)                                             | [Snort – Live Attacks](https://github.com/Setounkpe7/Snort-Live-Attacks) |
 | Application de la Cyber Kill Chain pour la mitigation des attaques    | [Summit](https://github.com/Setounkpe7/Summit) |
 | Automatisation & gestion de fichiers Python                            | [Update-a-File-through-Python](https://github.com/Setounkpe7/Manage-Access-List-With-Python) |
 | Gestion des permissions Linux                                          | [File-Permissions-in Linux](https://github.com/Setounkpe7/File-Permissions-Linux) |
 | Analyse d’incidents réseau (DNS/ICMP)                                 | [Network-Traffic-Analysis](https://github.com/Setounkpe7/Network-Traffic-Analysis) |
 | Évaluation des vulnérabilités système                                 | [Vulnerability-Assessment-Report](https://github.com/Setounkpe7/Vulnerability-Assessment) |
 | Audit de sécurité & conformité                                         | [Botium-Toys Security-Assessment](https://github.com/Setounkpe7/Botium-Toys-Security-Assessment) |
-| Détection IDS/IPS (Snort)                                             | [Snort – Live Attacks](https://github.com/Setounkpe7/Snort-Live-Attacks) |
 | Filtrage & analyse SQL                                                | [Apply Filters to SQL Queries](https://github.com/Setounkpe7/Apply-Filters-SQL-Queries) |
-| Rédaction d’un rapport d’incident                                     | [Security Incident Report](https://github.com/Setounkpe7/Security-Incident-Report-HTTP-Malware-Redirect) |
 | Analyse des risques & recommandations                                 | [Security Risk Assessment Report](https://github.com/Setounkpe7/Security-Risk-Assessment) |
 
 
