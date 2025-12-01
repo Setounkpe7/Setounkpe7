@@ -14,9 +14,10 @@ Je m’oriente désormais vers des rôles axés sur la défense et la sécurisat
 
 | Compétence                                                            | Projet associé |
 |-----------------------------------------------------------------------|----------------|
+| Triage d'alerte en temps réél    | [Phishing SOC Simulation](https://github.com/Setounkpe7/Phishing-SOC-Simulator) |
+| Application de la Cyber Kill Chain pour la mitigation des attaques    | [Summit](https://github.com/Setounkpe7/Summit) |
 | Rédaction d’un rapport d’incident                                     | [Security Incident Report](https://github.com/Setounkpe7/Security-Incident-Report-HTTP-Malware-Redirect) |
 | Détection IDS/IPS (Snort)                                             | [Snort – Live Attacks](https://github.com/Setounkpe7/Snort-Live-Attacks) |
-| Application de la Cyber Kill Chain pour la mitigation des attaques    | [Summit](https://github.com/Setounkpe7/Summit) |
 | Automatisation & gestion de fichiers Python                            | [Update-a-File-through-Python](https://github.com/Setounkpe7/Manage-Access-List-With-Python) |
 | Gestion des permissions Linux                                          | [File-Permissions-in Linux](https://github.com/Setounkpe7/File-Permissions-Linux) |
 | Analyse d’incidents réseau (DNS/ICMP)                                 | [Network-Traffic-Analysis](https://github.com/Setounkpe7/Network-Traffic-Analysis) |
@@ -42,7 +43,7 @@ Je m’oriente désormais vers des rôles axés sur la défense et la sécurisat
 
 ### SIEM  
 - Splunk  
-- ELK Stack (Elasticsearch, Logstash, Kibana)   
+- Elastic Stack  
 
 ---
 
@@ -53,6 +54,8 @@ Je m’oriente désormais vers des rôles axés sur la défense et la sécurisat
 ---
 
 ## Projets
+### [Phishing SOC Simulation](https://github.com/Setounkpe7/Phishing-SOC-Simulator)
+Simulation en temps réél de triage d'alertes de type phishing, processus parent-enfant, exécution de scripts malicieux.
 
 ### [Summit](https://github.com/Setounkpe7/Summit)  
 Simulation immersive de type purple-team visant à améliorer les capacités de détection de PicoSecure via la Pyramid of Pain et la matrice MITRE ATT&CK.  
