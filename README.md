@@ -87,6 +87,18 @@ Audit complet du programme de sécurité d’une entreprise fictive : définitio
 
 ---
 
+## Projets DevSecOps
+
+### [railsgoat-security](https://github.com/Setounkpe7/railsgoat-security)
+Hardening DevSecOps d'OWASP RailsGoat (application Rails délibérément vulnérable) : pipeline GitHub Actions à 8 couches (secrets, SAST Brakeman + Semgrep, SCA bundler-audit + Trivy, DAST ZAP, SBOM CycloneDX, Hadolint, Trivy image, signature Cosign sur GHCR), correction des CVE infrastructure et dépendances, registre formel `SECURITY_EXCEPTIONS.md` (28 entrées datées) pour les vulnérabilités intentionnelles acceptées et les CVE OS sans patch upstream.
+
+### [find-one-devsecops-case-study](https://github.com/Setounkpe7/find-one-devsecops-case-study)
+Premier case study DevSecOps : pipeline appliqué à la plateforme Find-One (Next.js sur Vercel). Couvre les couches sans image conteneur (secrets, SAST, SCA, SBOM SPDX, DAST ZAP authentifié), avec Dependabot, pre-commit hooks et runbook de rollback.
+
+Ces deux projets ont été développés avec l'aide de l'IA pour accélérer l'implémentation ; les choix d'ingénierie (périmètre, outillage, gating, acceptation de risques) sont les miens.
+
+---
+
 ## Contact  
 - LinkedIn : [linkedin.com/in/votre-profil](www.linkedin.com/in/michel-ange-doubogan-0731a4129)  
 - Email : mdoubogan@yahoo.fr 
